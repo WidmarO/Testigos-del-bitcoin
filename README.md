@@ -24,6 +24,8 @@
 - **Luiyi Antony Quispe Palomino** - _GitHub Account_ - [blablabla115](https://github.com/blablabla115)
 - **Gonzalo Gutierrez Daza** - _GitHub Account_ - [gonzalo95050](https://github.com/gonzalo95050)
 - **Bryan Huillca Mozo** - _GitHub Account_ - [BryanHuillcaMozo](https://github.com/BryanHuillcaMozo)
+- - **Angie Escobedo Mescco** - _GitHub Account_ - [AngieEM](https://github.com/AngieEM)
+- **Charlie Joel Luna Ccasani** - _GitHub Account_ - [CharlieLuna312](https://github.com/CharlieLuna312)
 ---
 
 ## Empezamos... 🚀
