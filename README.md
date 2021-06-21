@@ -21,6 +21,7 @@
 
 - **Widmar Raul Quispe Leon** - _GitHub Account_ - [WidmarO](https://github.com/WidmarO)
 - **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
+- **Luiyi Antony Quispe Palomino** - _GitHub Account_ - [blablabla115](https://github.com/blablabla115)
 
 ---
 
