@@ -22,10 +22,12 @@
 - **Widmar Raul Quispe Leon** - _GitHub Account_ - [WidmarO](https://github.com/WidmarO)
 - **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
 - **Luiyi Antony Quispe Palomino** - _GitHub Account_ - [blablabla115](https://github.com/blablabla115)
+- **Guevara Ferro Cristian Luis** - _GitHub Account_ - [Cristian1938](https://github.com/cristian1938)
 - **Gonzalo Gutierrez Daza** - _GitHub Account_ - [gonzalo95050](https://github.com/gonzalo95050)
 - **Bryan Huillca Mozo** - _GitHub Account_ - [BryanHuillcaMozo](https://github.com/BryanHuillcaMozo)
 - **Angie Escobedo Mescco** - _GitHub Account_ - [AngieEM](https://github.com/AngieEM)
 - **Charlie Joel Luna Ccasani** - _GitHub Account_ - [CharlieLuna312](https://github.com/CharlieLuna312)
+
 ---
 
 ## Empezamos... 🚀
