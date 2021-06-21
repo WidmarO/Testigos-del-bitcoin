@@ -23,6 +23,7 @@
 - **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
 - **Luiyi Antony Quispe Palomino** - _GitHub Account_ - [blablabla115](https://github.com/blablabla115)
 - **Gonzalo Gutierrez Daza** - _GitHub Account_ - [gonzalo95050](https://github.com/gonzalo95050)
+- **Bryan Huillca Mozo** - _GitHub Account_ - [BryanHuillcaMozo](https://github.com/BryanHuillcaMozo)
 ---
 
 ## Empezamos... 🚀
