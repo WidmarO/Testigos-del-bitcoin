@@ -1,2 +1,31 @@
 # Testigos-del-bitcoin
-:V
+# **<center> 💻 REPOSITORIO GENERAL DEL CURSO (ING. DE SOFTWARE) 💻 </center>**
+
+---
+
+### Datos Academicos 📖
+
+- **Institucion:** Universidad Nacional de San Antonio Abad del Cusco
+- **Facultad:** Facultad de ingenieria electrica, electronica, informatica y mecanica
+- **Escuela Prof:** Ingenieria Informatica y de Sistemas
+
+#### Docente:
+
+- **Roxana Lisette Quintanilla** - _Docente_ - [GitHub](https://github.com/nitanilla).
+
+#### Trabajo:
+
+- Pendiente
+
+#### Autores:✒️
+
+- **Widmar Raul Quispe Leon** - _GitHub Account_ - [WidmarO](https://github.com/WidmarO)
+
+---
+
+## Empezamos... 🚀
+
+
+---
+
+⌨️ con ❤️ por [WidmarO](https://github.com/WidmarO) 😊
