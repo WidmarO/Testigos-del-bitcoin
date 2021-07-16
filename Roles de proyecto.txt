@@ -1,0 +1,10 @@
+Roles Asignados para el proyecto
+-Widmar Raul Quispe Leon		Jefe de proyecto
+-Ronaldinho Vega Centeno Olivera	Líder de equipo
+-Gonzalo Gutierrez Daza			Arquitecto de Software
+-Bryan Huillca Mozo			Analista de Software
+-Luiyi Antony Quispe Palomino		Líder de calidad
+-Cristian Luis Guevara Ferro		Desarrollador Full Stack
+-Charlie Joel Luna Ccasani		Desarrollador Full Stack
+-Angie Escobedo Mescco			Desarrollador UX/UI
+
